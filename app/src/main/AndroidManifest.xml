@@ -26,6 +26,10 @@
             android:exported="false"
             android:theme="@style/Theme.Act3"
             android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".ResumenActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
